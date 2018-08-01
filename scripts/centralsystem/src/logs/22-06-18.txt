@@ -1,0 +1,579 @@
+Fri Jun 22 17:30:50 2018 - Following items should be ordered:
+Fri Jun 22 17:30:50 2018 -    order Hagelslag, 10 items left
+Fri Jun 22 17:30:50 2018 -    order Stroopwafels, 15 items left
+Fri Jun 22 17:31:37 2018 - Following items should be ordered:
+Fri Jun 22 17:31:37 2018 -    order Hagelslag, 10 items left
+Fri Jun 22 17:31:37 2018 -    order Stroopwafels, 15 items left
+Fri Jun 22 17:39:07 2018 - Following items should be ordered:
+Fri Jun 22 17:39:07 2018 -    order Hagelslag, 10 items left
+Fri Jun 22 17:39:07 2018 -    order Stroopwafels, 15 items left
+Fri Jun 22 17:40:07 2018 - Following items should be ordered:
+Fri Jun 22 17:40:07 2018 -    order Hagelslag, 10 items left
+Fri Jun 22 17:40:07 2018 -    order Stroopwafels, 15 items left
+Fri Jun 22 17:40:31 2018 - Following items should be ordered:
+Fri Jun 22 17:40:31 2018 -    order Stroopwafels, 15 items left
+Fri Jun 22 17:43:48 2018 - Following items should be ordered:
+Fri Jun 22 17:43:48 2018 -    order Stroopwafels, 15 items left
+Fri Jun 22 17:44:06 2018 - Following items should be ordered:
+Fri Jun 22 17:44:06 2018 -    order Stroopwafels, 15 items left
+Fri Jun 22 17:52:51 2018 - Following items should be ordered:
+Fri Jun 22 17:52:51 2018 -    order Hagelslag, 10 items left
+Fri Jun 22 17:52:51 2018 -    order Stroopwafels, 15 items left
+Fri Jun 22 18:09:01 2018 - Following items should be ordered:
+Fri Jun 22 18:09:01 2018 -    order Hagelslag, 10 items left
+Fri Jun 22 18:09:01 2018 -    order Stroopwafels, 15 items left
+Fri Jun 22 18:11:36 2018 - Following items should be ordered:
+Fri Jun 22 18:11:36 2018 -    order Hagelslag, 10 items left
+Fri Jun 22 18:11:36 2018 -    order Stroopwafels, 15 items left
+Fri Jun 22 18:14:51 2018 - Following items should be ordered:
+Fri Jun 22 18:14:51 2018 -    order Hagelslag, 10 items left
+Fri Jun 22 18:14:51 2018 -    order Stroopwafels, 15 items left
+Fri Jun 22 18:15:53 2018 - Following items should be ordered:
+Fri Jun 22 18:15:53 2018 -    order Hagelslag, 10 items left
+Fri Jun 22 18:15:53 2018 -    order Stroopwafels, 15 items left
+Fri Jun 22 18:17:36 2018 - Following items should be ordered:
+Fri Jun 22 18:17:36 2018 -    order Hagelslag, 10 items left
+Fri Jun 22 18:17:36 2018 -    order Stroopwafels, 15 items left
+Fri Jun 22 18:18:02 2018 - Following items should be ordered:
+Fri Jun 22 18:18:02 2018 -    order Hagelslag, 10 items left
+Fri Jun 22 18:18:02 2018 -    order Stroopwafels, 15 items left
+Fri Jun 22 18:18:36 2018 - Following items should be ordered:
+Fri Jun 22 18:18:36 2018 -    order Hagelslag, 10 items left
+Fri Jun 22 18:18:36 2018 -    order Stroopwafels, 15 items left
+Fri Jun 22 18:18:37 2018 - server - {'type': 'ready_for_communication', 'value': True}
+Fri Jun 22 18:19:11 2018 - Following items should be ordered:
+Fri Jun 22 18:19:11 2018 -    order Hagelslag, 10 items left
+Fri Jun 22 18:19:11 2018 -    order Stroopwafels, 15 items left
+Fri Jun 22 18:19:13 2018 - server - {'value': True, 'type': 'ready_for_communication'}
+Fri Jun 22 18:19:45 2018 - Following items should be ordered:
+Fri Jun 22 18:19:45 2018 -    order Hagelslag, 10 items left
+Fri Jun 22 18:19:45 2018 -    order Stroopwafels, 15 items left
+Fri Jun 22 18:19:57 2018 - Following items should be ordered:
+Fri Jun 22 18:19:57 2018 -    order Hagelslag, 10 items left
+Fri Jun 22 18:19:57 2018 -    order Stroopwafels, 15 items left
+Fri Jun 22 18:20:12 2018 - Following items should be ordered:
+Fri Jun 22 18:20:12 2018 -    order Hagelslag, 10 items left
+Fri Jun 22 18:20:12 2018 -    order Stroopwafels, 15 items left
+Fri Jun 22 18:21:56 2018 - Following items should be ordered:
+Fri Jun 22 18:21:56 2018 -    order Hagelslag, 10 items left
+Fri Jun 22 18:21:56 2018 -    order Stroopwafels, 15 items left
+Fri Jun 22 18:22:02 2018 - server - {'value': True, 'type': 'ready_for_communication'}
+Fri Jun 22 18:22:25 2018 - Following items should be ordered:
+Fri Jun 22 18:22:25 2018 -    order Hagelslag, 10 items left
+Fri Jun 22 18:22:25 2018 -    order Stroopwafels, 15 items left
+Fri Jun 22 18:22:27 2018 - server - {'value': True, 'type': 'ready_for_communication'}
+Fri Jun 22 18:24:26 2018 - Following items should be ordered:
+Fri Jun 22 18:24:26 2018 -    order Hagelslag, 10 items left
+Fri Jun 22 18:24:26 2018 -    order Stroopwafels, 15 items left
+Fri Jun 22 18:24:28 2018 - server - {"value":true,"type":"ready_for_communication"}
+Fri Jun 22 18:24:42 2018 - Following items should be ordered:
+Fri Jun 22 18:24:42 2018 -    order Hagelslag, 10 items left
+Fri Jun 22 18:24:42 2018 -    order Stroopwafels, 15 items left
+Fri Jun 22 18:24:44 2018 - server - {"value":true,"type":"ready_for_communication"}
+Fri Jun 22 18:25:01 2018 - Following items should be ordered:
+Fri Jun 22 18:25:01 2018 -    order Hagelslag, 10 items left
+Fri Jun 22 18:25:01 2018 -    order Stroopwafels, 15 items left
+Fri Jun 22 18:25:02 2018 - server - {"value":true,"type":"ready_for_communication"}
+Fri Jun 22 18:25:47 2018 - Following items should be ordered:
+Fri Jun 22 18:25:47 2018 -    order Hagelslag, 10 items left
+Fri Jun 22 18:25:47 2018 -    order Stroopwafels, 15 items left
+Fri Jun 22 18:25:48 2018 - server - {"type":"ready_for_communication","value":true}
+Fri Jun 22 18:26:15 2018 - Following items should be ordered:
+Fri Jun 22 18:26:15 2018 -    order Hagelslag, 10 items left
+Fri Jun 22 18:26:15 2018 -    order Stroopwafels, 15 items left
+Fri Jun 22 18:26:16 2018 - server - {"type":"ready_for_communication","value":true}
+Fri Jun 22 18:26:41 2018 - Following items should be ordered:
+Fri Jun 22 18:26:41 2018 -    order Hagelslag, 10 items left
+Fri Jun 22 18:26:41 2018 -    order Stroopwafels, 15 items left
+Fri Jun 22 18:26:43 2018 - server - {"type":"ready_for_communication","value":true}
+Fri Jun 22 18:33:09 2018 - Following items should be ordered:
+Fri Jun 22 18:33:09 2018 -    order Hagelslag, 10 items left
+Fri Jun 22 18:33:09 2018 -    order Stroopwafels, 15 items left
+Fri Jun 22 18:33:34 2018 - server - {"type":"ready_for_communication","value":true}
+Fri Jun 22 18:33:35 2018 - robot - {"type": "ready", "value": true}
+Fri Jun 22 18:35:08 2018 - Following items should be ordered:
+Fri Jun 22 18:35:08 2018 -    order Hagelslag, 10 items left
+Fri Jun 22 18:35:08 2018 -    order Stroopwafels, 15 items left
+Fri Jun 22 18:35:18 2018 - Following items should be ordered:
+Fri Jun 22 18:35:18 2018 -    order Hagelslag, 10 items left
+Fri Jun 22 18:35:18 2018 -    order Stroopwafels, 15 items left
+Fri Jun 22 18:38:08 2018 - Following items should be ordered:
+Fri Jun 22 18:38:08 2018 -    order Hagelslag, 10 items left
+Fri Jun 22 18:38:08 2018 -    order Stroopwafels, 15 items left
+Fri Jun 22 18:38:13 2018 - server - {"value":true,"type":"ready_for_communication"}
+Fri Jun 22 18:38:13 2018 - robot - {"type": "ready", "value": true}
+Fri Jun 22 18:38:13 2018 - robot did not send the correct message, see log for last received message
+Fri Jun 22 18:40:35 2018 - Following items should be ordered:
+Fri Jun 22 18:40:35 2018 -    order Hagelslag, 10 items left
+Fri Jun 22 18:40:35 2018 -    order Stroopwafels, 15 items left
+Fri Jun 22 18:40:37 2018 - server - {"type":"ready_for_communication","value":true}
+Fri Jun 22 18:40:37 2018 - robot - {"type": "ready_for_communication", "value": true}
+Fri Jun 22 18:42:26 2018 - Following items should be ordered:
+Fri Jun 22 18:42:26 2018 -    order Hagelslag, 10 items left
+Fri Jun 22 18:42:26 2018 -    order Stroopwafels, 15 items left
+Fri Jun 22 18:46:31 2018 - Following items should be ordered:
+Fri Jun 22 18:46:31 2018 -    order Hagelslag, 10 items left
+Fri Jun 22 18:46:31 2018 -    order Stroopwafels, 15 items left
+Fri Jun 22 18:46:35 2018 - server - {"type":"ready_for_communication","value":true}
+Fri Jun 22 18:46:35 2018 - robot - {"type": "ready_for_communication", "value": true}
+Fri Jun 22 18:51:06 2018 - Following items should be ordered:
+Fri Jun 22 18:51:06 2018 -    order Hagelslag, 10 items left
+Fri Jun 22 18:51:06 2018 -    order Stroopwafels, 15 items left
+Fri Jun 22 18:51:09 2018 - server - {"value":true,"type":"ready_for_communication"}
+Fri Jun 22 18:51:09 2018 - robot - {"type": "ready_for_communication", "value": true}
+Fri Jun 22 18:53:16 2018 - Following items should be ordered:
+Fri Jun 22 18:53:16 2018 -    order Hagelslag, 10 items left
+Fri Jun 22 18:53:16 2018 -    order Stroopwafels, 15 items left
+Fri Jun 22 18:53:48 2018 - Following items should be ordered:
+Fri Jun 22 18:53:48 2018 -    order Hagelslag, 10 items left
+Fri Jun 22 18:53:48 2018 -    order Stroopwafels, 15 items left
+Fri Jun 22 19:06:20 2018 - Following items should be ordered:
+Fri Jun 22 19:06:20 2018 -    order Hagelslag, 10 items left
+Fri Jun 22 19:06:20 2018 -    order Stroopwafels, 15 items left
+Fri Jun 22 19:06:24 2018 - server - {"type":"ready_for_communication","value":true}
+Fri Jun 22 19:06:24 2018 - robot - {"type": "ready_for_communication", "value": true}
+Fri Jun 22 19:07:13 2018 - Following items should be ordered:
+Fri Jun 22 19:07:13 2018 -    order Hagelslag, 10 items left
+Fri Jun 22 19:07:13 2018 -    order Stroopwafels, 15 items left
+Fri Jun 22 19:07:28 2018 - Following items should be ordered:
+Fri Jun 22 19:07:28 2018 -    order Hagelslag, 10 items left
+Fri Jun 22 19:07:28 2018 -    order Stroopwafels, 15 items left
+Fri Jun 22 19:07:51 2018 - Following items should be ordered:
+Fri Jun 22 19:07:51 2018 -    order Hagelslag, 10 items left
+Fri Jun 22 19:07:52 2018 -    order Stroopwafels, 15 items left
+Fri Jun 22 19:07:54 2018 - server - {"type":"ready_for_communication","value":true}
+Fri Jun 22 19:07:54 2018 - robot - {"type": "ready_for_communication", "value": true}
+Fri Jun 22 19:07:54 2018 - robot - {"type": "ready", "value": true}
+Fri Jun 22 19:09:26 2018 - Following items should be ordered:
+Fri Jun 22 19:09:26 2018 -    order Hagelslag, 10 items left
+Fri Jun 22 19:09:26 2018 -    order Stroopwafels, 15 items left
+Fri Jun 22 19:10:30 2018 - Following items should be ordered:
+Fri Jun 22 19:10:30 2018 -    order Hagelslag, 10 items left
+Fri Jun 22 19:10:30 2018 -    order Stroopwafels, 15 items left
+Fri Jun 22 19:10:34 2018 - server - {"value":true,"type":"ready_for_communication"}
+Fri Jun 22 19:10:34 2018 - robot - {"type": "ready_for_communication", "value": true}
+Fri Jun 22 19:10:34 2018 - robot - {"type": "ready", "value": true}
+Fri Jun 22 19:10:35 2018 - Following items should be ordered:
+Fri Jun 22 19:10:35 2018 -    order Hagelslag, 10 items left
+Fri Jun 22 19:10:35 2018 -    order Stroopwafels, 15 items left
+Fri Jun 22 19:10:35 2018 - Fill robot with:
+Fri Jun 22 19:10:35 2018 -    fill place x = 1, y = 3 with 10 Hagelslag
+Fri Jun 22 19:10:35 2018 -    fill place x = 1, y = 3 with 400 Chocopasta
+Fri Jun 22 19:10:35 2018 -    fill place x = 1, y = 2 with 40 Eieren
+Fri Jun 22 19:10:40 2018 - Following items should be ordered:
+Fri Jun 22 19:10:40 2018 -    order Hagelslag, 10 items left
+Fri Jun 22 19:10:40 2018 -    order Stroopwafels, 15 items left
+Fri Jun 22 19:10:40 2018 - Fill robot with:
+Fri Jun 22 19:10:40 2018 -    fill place x = 1, y = 3 with 10 Hagelslag
+Fri Jun 22 19:10:40 2018 -    fill place x = 1, y = 3 with 400 Chocopasta
+Fri Jun 22 19:10:40 2018 -    fill place x = 1, y = 2 with 40 Eieren
+Fri Jun 22 19:10:45 2018 - Following items should be ordered:
+Fri Jun 22 19:10:45 2018 -    order Hagelslag, 10 items left
+Fri Jun 22 19:10:45 2018 -    order Stroopwafels, 15 items left
+Fri Jun 22 19:10:45 2018 - Fill robot with:
+Fri Jun 22 19:10:45 2018 -    fill place x = 1, y = 3 with 10 Hagelslag
+Fri Jun 22 19:10:45 2018 -    fill place x = 1, y = 3 with 400 Chocopasta
+Fri Jun 22 19:10:45 2018 -    fill place x = 1, y = 2 with 40 Eieren
+Fri Jun 22 19:10:50 2018 - Following items should be ordered:
+Fri Jun 22 19:10:50 2018 -    order Hagelslag, 10 items left
+Fri Jun 22 19:10:50 2018 -    order Stroopwafels, 15 items left
+Fri Jun 22 19:10:50 2018 - Fill robot with:
+Fri Jun 22 19:10:50 2018 -    fill place x = 1, y = 3 with 10 Hagelslag
+Fri Jun 22 19:10:50 2018 -    fill place x = 1, y = 3 with 400 Chocopasta
+Fri Jun 22 19:10:50 2018 -    fill place x = 1, y = 2 with 40 Eieren
+Fri Jun 22 19:12:58 2018 - server - {"type":"ready_for_communication","value":true}
+Fri Jun 22 19:12:58 2018 - robot - {"type": "ready_for_communication", "value": true}
+Fri Jun 22 19:12:58 2018 - robot - {"type": "ready", "value": true}
+Fri Jun 22 19:15:02 2018 - server - {"type":"ready_for_communication","value":true}
+Fri Jun 22 19:15:02 2018 - robot - {"type": "ready_for_communication", "value": true}
+Fri Jun 22 19:15:02 2018 - robot - {"type": "ready", "value": true}
+Fri Jun 22 19:16:54 2018 - server - {"type":"ready_for_communication","value":true}
+Fri Jun 22 19:16:54 2018 - robot - {"type": "ready_for_communication", "value": true}
+Fri Jun 22 19:16:54 2018 - robot - {"type": "ready", "value": true}
+Fri Jun 22 19:17:05 2018 - Following items should be ordered:
+Fri Jun 22 19:17:05 2018 -    order Hagelslag, 10 items left
+Fri Jun 22 19:17:05 2018 -    order Stroopwafels, 15 items left
+Fri Jun 22 19:17:05 2018 - Fill robot with:
+Fri Jun 22 19:17:05 2018 -    fill place x = 1, y = 3 with 10 Hagelslag
+Fri Jun 22 19:17:05 2018 -    fill place x = 1, y = 3 with 400 Chocopasta
+Fri Jun 22 19:17:05 2018 -    fill place x = 1, y = 2 with 40 Eieren
+Fri Jun 22 19:17:10 2018 - Following items should be ordered:
+Fri Jun 22 19:17:10 2018 -    order Hagelslag, 10 items left
+Fri Jun 22 19:17:10 2018 -    order Stroopwafels, 15 items left
+Fri Jun 22 19:17:10 2018 - Fill robot with:
+Fri Jun 22 19:17:10 2018 -    fill place x = 1, y = 3 with 10 Hagelslag
+Fri Jun 22 19:17:10 2018 -    fill place x = 1, y = 3 with 400 Chocopasta
+Fri Jun 22 19:17:10 2018 -    fill place x = 1, y = 2 with 40 Eieren
+Fri Jun 22 19:17:15 2018 - Following items should be ordered:
+Fri Jun 22 19:17:15 2018 -    order Hagelslag, 10 items left
+Fri Jun 22 19:17:15 2018 -    order Stroopwafels, 15 items left
+Fri Jun 22 19:17:15 2018 - Fill robot with:
+Fri Jun 22 19:17:15 2018 -    fill place x = 1, y = 3 with 10 Hagelslag
+Fri Jun 22 19:17:15 2018 -    fill place x = 1, y = 3 with 400 Chocopasta
+Fri Jun 22 19:17:15 2018 -    fill place x = 1, y = 2 with 40 Eieren
+Fri Jun 22 19:18:54 2018 - server - {"type":"ready_for_communication","value":true}
+Fri Jun 22 19:18:54 2018 - robot - {"type": "ready_for_communication", "value": true}
+Fri Jun 22 19:18:54 2018 - robot - {"type": "ready", "value": true}
+Fri Jun 22 19:19:07 2018 - Following items should be ordered:
+Fri Jun 22 19:19:07 2018 -    order Hagelslag, 10 items left
+Fri Jun 22 19:19:07 2018 -    order Stroopwafels, 15 items left
+Fri Jun 22 19:19:07 2018 - Fill robot with:
+Fri Jun 22 19:19:07 2018 -    fill place x = 1, y = 3 with 10 Hagelslag
+Fri Jun 22 19:19:07 2018 -    fill place x = 1, y = 3 with 400 Chocopasta
+Fri Jun 22 19:19:07 2018 -    fill place x = 1, y = 2 with 40 Eieren
+Fri Jun 22 19:19:12 2018 - Following items should be ordered:
+Fri Jun 22 19:19:12 2018 -    order Hagelslag, 10 items left
+Fri Jun 22 19:19:12 2018 -    order Stroopwafels, 15 items left
+Fri Jun 22 19:19:12 2018 - Fill robot with:
+Fri Jun 22 19:19:12 2018 -    fill place x = 1, y = 3 with 10 Hagelslag
+Fri Jun 22 19:19:12 2018 -    fill place x = 1, y = 3 with 400 Chocopasta
+Fri Jun 22 19:19:12 2018 -    fill place x = 1, y = 2 with 40 Eieren
+Fri Jun 22 19:19:17 2018 - Following items should be ordered:
+Fri Jun 22 19:19:17 2018 -    order Hagelslag, 10 items left
+Fri Jun 22 19:19:17 2018 -    order Stroopwafels, 15 items left
+Fri Jun 22 19:19:17 2018 - Fill robot with:
+Fri Jun 22 19:19:17 2018 -    fill place x = 1, y = 3 with 10 Hagelslag
+Fri Jun 22 19:19:17 2018 -    fill place x = 1, y = 3 with 400 Chocopasta
+Fri Jun 22 19:19:17 2018 -    fill place x = 1, y = 2 with 40 Eieren
+Fri Jun 22 19:19:22 2018 - Following items should be ordered:
+Fri Jun 22 19:19:22 2018 -    order Hagelslag, 10 items left
+Fri Jun 22 19:19:22 2018 -    order Stroopwafels, 15 items left
+Fri Jun 22 19:19:22 2018 - Fill robot with:
+Fri Jun 22 19:19:22 2018 -    fill place x = 1, y = 3 with 10 Hagelslag
+Fri Jun 22 19:19:22 2018 -    fill place x = 1, y = 3 with 400 Chocopasta
+Fri Jun 22 19:19:22 2018 -    fill place x = 1, y = 2 with 40 Eieren
+Fri Jun 22 19:19:27 2018 - Following items should be ordered:
+Fri Jun 22 19:19:27 2018 -    order Hagelslag, 10 items left
+Fri Jun 22 19:19:27 2018 -    order Stroopwafels, 15 items left
+Fri Jun 22 19:19:27 2018 - Fill robot with:
+Fri Jun 22 19:19:27 2018 -    fill place x = 1, y = 3 with 10 Hagelslag
+Fri Jun 22 19:19:27 2018 -    fill place x = 1, y = 3 with 400 Chocopasta
+Fri Jun 22 19:19:27 2018 -    fill place x = 1, y = 2 with 40 Eieren
+Fri Jun 22 19:21:02 2018 - server - {"type":"ready_for_communication","value":true}
+Fri Jun 22 19:21:02 2018 - robot - {"type": "ready_for_communication", "value": true}
+Fri Jun 22 19:21:02 2018 - robot - {"type": "ready", "value": true}
+Fri Jun 22 19:21:15 2018 - Following items should be ordered:
+Fri Jun 22 19:21:15 2018 -    order Hagelslag, 10 items left
+Fri Jun 22 19:21:15 2018 -    order Stroopwafels, 15 items left
+Fri Jun 22 19:21:15 2018 - Fill robot with:
+Fri Jun 22 19:21:15 2018 -    fill place x = 1, y = 3 with 10 Hagelslag
+Fri Jun 22 19:21:15 2018 -    fill place x = 1, y = 3 with 400 Chocopasta
+Fri Jun 22 19:21:15 2018 -    fill place x = 1, y = 2 with 40 Eieren
+Fri Jun 22 19:21:20 2018 - Following items should be ordered:
+Fri Jun 22 19:21:20 2018 -    order Hagelslag, 10 items left
+Fri Jun 22 19:21:20 2018 -    order Stroopwafels, 15 items left
+Fri Jun 22 19:21:20 2018 - Fill robot with:
+Fri Jun 22 19:21:20 2018 -    fill place x = 1, y = 3 with 10 Hagelslag
+Fri Jun 22 19:21:20 2018 -    fill place x = 1, y = 3 with 400 Chocopasta
+Fri Jun 22 19:21:20 2018 -    fill place x = 1, y = 2 with 40 Eieren
+Fri Jun 22 19:21:25 2018 - Following items should be ordered:
+Fri Jun 22 19:21:25 2018 -    order Hagelslag, 10 items left
+Fri Jun 22 19:21:25 2018 -    order Stroopwafels, 15 items left
+Fri Jun 22 19:21:25 2018 - Fill robot with:
+Fri Jun 22 19:21:25 2018 -    fill place x = 1, y = 3 with 10 Hagelslag
+Fri Jun 22 19:21:25 2018 -    fill place x = 1, y = 3 with 400 Chocopasta
+Fri Jun 22 19:21:25 2018 -    fill place x = 1, y = 2 with 40 Eieren
+Fri Jun 22 19:23:05 2018 - server - {"value":true,"type":"ready_for_communication"}
+Fri Jun 22 19:23:05 2018 - robot - {"type": "ready_for_communication", "value": true}
+Fri Jun 22 19:23:05 2018 - robot - {"type": "ready", "value": true}
+Fri Jun 22 19:23:18 2018 - Following items should be ordered:
+Fri Jun 22 19:23:18 2018 -    order Hagelslag, 10 items left
+Fri Jun 22 19:23:18 2018 -    order Stroopwafels, 15 items left
+Fri Jun 22 19:23:18 2018 - Fill robot with:
+Fri Jun 22 19:23:18 2018 -    fill place x = 1, y = 3 with 10 Hagelslag
+Fri Jun 22 19:23:18 2018 -    fill place x = 1, y = 3 with 400 Chocopasta
+Fri Jun 22 19:23:18 2018 -    fill place x = 1, y = 2 with 40 Eieren
+Fri Jun 22 19:24:51 2018 - server - {"type":"ready_for_communication","value":true}
+Fri Jun 22 19:24:51 2018 - robot - {"type": "ready_for_communication", "value": true}
+Fri Jun 22 19:24:51 2018 - robot - {"type": "ready", "value": true}
+Fri Jun 22 19:25:04 2018 - Following items should be ordered:
+Fri Jun 22 19:25:04 2018 -    order Hagelslag, 10 items left
+Fri Jun 22 19:25:04 2018 -    order Stroopwafels, 15 items left
+Fri Jun 22 19:25:04 2018 - Fill robot with:
+Fri Jun 22 19:25:04 2018 -    fill place x = 1, y = 3 with 10 Hagelslag
+Fri Jun 22 19:25:04 2018 -    fill place x = 1, y = 3 with 400 Chocopasta
+Fri Jun 22 19:25:04 2018 -    fill place x = 1, y = 2 with 40 Eieren
+Fri Jun 22 19:28:51 2018 - server - {"type":"ready_for_communication","value":true}
+Fri Jun 22 19:28:51 2018 - robot - {"type": "ready_for_communication", "value": true}
+Fri Jun 22 19:28:51 2018 - robot - {"type": "ready", "value": true}
+Fri Jun 22 19:29:02 2018 - Following items should be ordered:
+Fri Jun 22 19:29:02 2018 -    order Hagelslag, 10 items left
+Fri Jun 22 19:29:02 2018 -    order Stroopwafels, 15 items left
+Fri Jun 22 19:29:02 2018 - Fill robot with:
+Fri Jun 22 19:29:02 2018 -    fill place x = 1, y = 3 with 10 Hagelslag
+Fri Jun 22 19:29:02 2018 -    fill place x = 1, y = 3 with 400 Chocopasta
+Fri Jun 22 19:29:02 2018 -    fill place x = 1, y = 2 with 40 Eieren
+Fri Jun 22 19:32:41 2018 - server - {"value":true,"type":"ready_for_communication"}
+Fri Jun 22 19:32:41 2018 - robot - {"type": "ready_for_communication", "value": true}
+Fri Jun 22 19:32:41 2018 - robot - {"type": "ready", "value": true}
+Fri Jun 22 19:32:52 2018 - Following items should be ordered:
+Fri Jun 22 19:32:52 2018 -    order Hagelslag, 10 items left
+Fri Jun 22 19:32:52 2018 -    order Stroopwafels, 15 items left
+Fri Jun 22 19:32:52 2018 - Fill robot with:
+Fri Jun 22 19:32:52 2018 -    fill place x = 1, y = 3 with 10 Hagelslag
+Fri Jun 22 19:32:52 2018 -    fill place x = 1, y = 3 with 400 Chocopasta
+Fri Jun 22 19:32:52 2018 -    fill place x = 1, y = 2 with 40 Eieren
+Fri Jun 22 19:35:22 2018 - server - {"value":true,"type":"ready_for_communication"}
+Fri Jun 22 19:35:22 2018 - robot - {"type": "ready_for_communication", "value": true}
+Fri Jun 22 19:35:23 2018 - robot - {"type": "ready", "value": true}
+Fri Jun 22 19:35:36 2018 - Following items should be ordered:
+Fri Jun 22 19:35:36 2018 -    order Hagelslag, 10 items left
+Fri Jun 22 19:35:36 2018 -    order Stroopwafels, 15 items left
+Fri Jun 22 19:35:36 2018 - Fill robot with:
+Fri Jun 22 19:35:36 2018 -    fill place x = 1, y = 3 with 10 Hagelslag
+Fri Jun 22 19:35:36 2018 -    fill place x = 1, y = 3 with 400 Chocopasta
+Fri Jun 22 19:35:36 2018 -    fill place x = 1, y = 2 with 40 Eieren
+Fri Jun 22 19:35:40 2018 - server - {"route":[[0,0,0,0,0],[0,-90,0],[180,0,90,0,0,0,0],[0,180]],"type":"route"}
+Fri Jun 22 19:44:41 2018 - server - {"type":"ready_for_communication","value":true}
+Fri Jun 22 19:44:41 2018 - robot - {"type": "ready_for_communication", "value": true}
+Fri Jun 22 19:44:41 2018 - robot - {"type": "ready", "value": true}
+Fri Jun 22 19:44:48 2018 - Following items should be ordered:
+Fri Jun 22 19:44:48 2018 -    order Hagelslag, 10 items left
+Fri Jun 22 19:44:48 2018 -    order Stroopwafels, 15 items left
+Fri Jun 22 19:44:48 2018 - Fill robot with:
+Fri Jun 22 19:44:48 2018 -    fill place x = 1, y = 3 with 10 Hagelslag
+Fri Jun 22 19:44:48 2018 -    fill place x = 1, y = 3 with 400 Chocopasta
+Fri Jun 22 19:44:48 2018 -    fill place x = 1, y = 2 with 40 Eieren
+Fri Jun 22 19:44:51 2018 - server - {"type":"route","routes":[[0,0,0,0,0],[0,-90,0],[180,0,90,0,0,0,0],[0,180]]}
+Fri Jun 22 19:44:54 2018 - robot - {"type": "arrived_at_target", "value": "ready"}
+Fri Jun 22 19:44:57 2018 - robot - {"type": "arrived_at_target", "value": "ready"}
+Fri Jun 22 19:45:00 2018 - robot - {"type": "arrived_at_target", "value": "ready"}
+Fri Jun 22 19:45:04 2018 - robot - {"type": "arrived_at_target", "value": "ready"}
+Fri Jun 22 19:45:04 2018 - robot - {"type": "ready", "value": true}
+Fri Jun 22 19:45:04 2018 - Following items should be ordered:
+Fri Jun 22 19:45:04 2018 -    order Hagelslag, 10 items left
+Fri Jun 22 19:45:04 2018 -    order Stroopwafels, 15 items left
+Fri Jun 22 19:45:04 2018 - Fill robot with:
+Fri Jun 22 19:45:04 2018 -    fill place x = 1, y = 3 with 10 Hagelslag
+Fri Jun 22 19:45:04 2018 -    fill place x = 1, y = 3 with 400 Chocopasta
+Fri Jun 22 19:45:04 2018 -    fill place x = 1, y = 2 with 40 Eieren
+Fri Jun 22 19:47:06 2018 - server - {"value":true,"type":"ready_for_communication"}
+Fri Jun 22 19:47:06 2018 - robot - {"type": "ready_for_communication", "value": true}
+Fri Jun 22 19:47:07 2018 - robot - {"type": "ready", "value": true}
+Fri Jun 22 19:47:20 2018 - Following items should be ordered:
+Fri Jun 22 19:47:20 2018 -    order Hagelslag, 10 items left
+Fri Jun 22 19:47:20 2018 -    order Stroopwafels, 15 items left
+Fri Jun 22 19:47:20 2018 - Fill robot with:
+Fri Jun 22 19:47:20 2018 -    fill place x = 1, y = 3 with 10 Hagelslag
+Fri Jun 22 19:47:20 2018 -    fill place x = 1, y = 3 with 400 Chocopasta
+Fri Jun 22 19:47:20 2018 -    fill place x = 1, y = 2 with 40 Eieren
+Fri Jun 22 19:47:29 2018 - server - {"routes":[[0,0,0,0,0],[0,-90,0],[180,0,90,0,0,0,0],[0,180]],"type":"route"}
+Fri Jun 22 19:47:32 2018 - robot - {"type": "arrived_at_target", "value": "ready"}
+Fri Jun 22 19:47:35 2018 - robot - {"type": "arrived_at_target", "value": "ready"}
+Fri Jun 22 19:47:38 2018 - robot - {"type": "arrived_at_target", "value": "ready"}
+Fri Jun 22 19:47:41 2018 - robot - {"type": "arrived_at_target", "value": "ready"}
+Fri Jun 22 19:47:41 2018 - robot - {"type": "ready", "value": true}
+Fri Jun 22 19:47:41 2018 - Following items should be ordered:
+Fri Jun 22 19:47:41 2018 -    order Hagelslag, 10 items left
+Fri Jun 22 19:47:41 2018 -    order Stroopwafels, 15 items left
+Fri Jun 22 19:47:41 2018 - Fill robot with:
+Fri Jun 22 19:47:41 2018 -    fill place x = 1, y = 3 with 10 Hagelslag
+Fri Jun 22 19:47:41 2018 -    fill place x = 1, y = 3 with 400 Chocopasta
+Fri Jun 22 19:47:41 2018 -    fill place x = 1, y = 2 with 40 Eieren
+Fri Jun 22 20:06:42 2018 - server - {"type":"ready_for_communication","value":true}
+Fri Jun 22 20:06:42 2018 - robot - {"type": "ready_for_communication", "value": true}
+Fri Jun 22 20:06:42 2018 - robot - {"type": "ready", "value": true}
+Fri Jun 22 20:06:53 2018 - Following items should be ordered:
+Fri Jun 22 20:06:53 2018 -    order Hagelslag, 10 items left
+Fri Jun 22 20:06:53 2018 -    order Stroopwafels, 15 items left
+Fri Jun 22 20:06:53 2018 - Fill robot with:
+Fri Jun 22 20:06:53 2018 -    fill place x = 1, y = 3 with 10 Hagelslag
+Fri Jun 22 20:06:53 2018 -    fill place x = 1, y = 3 with 400 Chocopasta
+Fri Jun 22 20:06:53 2018 -    fill place x = 1, y = 2 with 40 Eieren
+Fri Jun 22 20:07:00 2018 - server - {"type":"route","routes":[[0,0,0,0,0],[0,-90,0],[180,0,90,0,0,0,0],[0,180]]}
+Fri Jun 22 20:07:03 2018 - robot - {"type": "arrived_at_target", "value": "ready"}
+Fri Jun 22 20:07:06 2018 - robot - {"type": "arrived_at_target", "value": "ready"}
+Fri Jun 22 20:07:09 2018 - robot - {"type": "arrived_at_target", "value": "ready"}
+Fri Jun 22 20:07:12 2018 - robot - {"type": "arrived_at_target", "value": "ready"}
+Fri Jun 22 20:07:12 2018 - robot - {"type": "ready", "value": true}
+Fri Jun 22 20:07:12 2018 - Following items should be ordered:
+Fri Jun 22 20:07:12 2018 -    order Hagelslag, 10 items left
+Fri Jun 22 20:07:12 2018 -    order Stroopwafels, 15 items left
+Fri Jun 22 20:07:12 2018 - Fill robot with:
+Fri Jun 22 20:07:12 2018 -    fill place x = 1, y = 3 with 10 Hagelslag
+Fri Jun 22 20:07:12 2018 -    fill place x = 1, y = 3 with 400 Chocopasta
+Fri Jun 22 20:07:12 2018 -    fill place x = 1, y = 2 with 40 Eieren
+Fri Jun 22 20:16:45 2018 - server - {"type":"ready_for_communication","value":true}
+Fri Jun 22 20:16:45 2018 - robot - {"type": "ready_for_communication", "value": true}
+Fri Jun 22 20:16:45 2018 - robot - {"type": "ready", "value": true}
+Fri Jun 22 20:16:53 2018 - Following items should be ordered:
+Fri Jun 22 20:16:53 2018 -    order Hagelslag, 10 items left
+Fri Jun 22 20:16:53 2018 -    order Stroopwafels, 15 items left
+Fri Jun 22 20:16:53 2018 - Fill robot with:
+Fri Jun 22 20:16:53 2018 -    fill place x = 1, y = 3 with 10 Hagelslag
+Fri Jun 22 20:16:53 2018 -    fill place x = 1, y = 3 with 400 Chocopasta
+Fri Jun 22 20:16:53 2018 -    fill place x = 1, y = 2 with 40 Eieren
+Fri Jun 22 20:16:57 2018 - server - {"routes":[[0,0,0,0,0],[0,-90,0],[180,0,90,0,0,0,0],[0,180]],"type":"route"}
+Fri Jun 22 20:17:00 2018 - robot - {"type": "arrived_at_target", "value": "ready"}
+Fri Jun 22 20:17:03 2018 - robot - {"type": "arrived_at_target", "value": "ready"}
+Fri Jun 22 20:17:06 2018 - robot - {"type": "arrived_at_target", "value": "ready"}
+Fri Jun 22 20:17:09 2018 - robot - {"type": "arrived_at_target", "value": "ready"}
+Fri Jun 22 20:17:09 2018 - robot - {"type": "ready", "value": true}
+Fri Jun 22 20:17:09 2018 - Following items should be ordered:
+Fri Jun 22 20:17:09 2018 -    order Hagelslag, 10 items left
+Fri Jun 22 20:17:09 2018 -    order Stroopwafels, 15 items left
+Fri Jun 22 20:17:09 2018 - Fill robot with:
+Fri Jun 22 20:17:09 2018 -    fill place x = 1, y = 3 with 10 Hagelslag
+Fri Jun 22 20:17:09 2018 -    fill place x = 1, y = 3 with 400 Chocopasta
+Fri Jun 22 20:17:09 2018 -    fill place x = 1, y = 2 with 40 Eieren
+Fri Jun 22 20:17:28 2018 - Following items should be ordered:
+Fri Jun 22 20:17:28 2018 -    order Hagelslag, 10 items left
+Fri Jun 22 20:17:28 2018 -    order Stroopwafels, 15 items left
+Fri Jun 22 20:19:18 2018 - server - {"value":true,"type":"ready_for_communication"}
+Fri Jun 22 20:19:18 2018 - robot - {"type": "ready_for_communication", "value": true}
+Fri Jun 22 20:19:18 2018 - robot - {"type": "ready", "value": true}
+Fri Jun 22 20:19:21 2018 - Following items should be ordered:
+Fri Jun 22 20:19:21 2018 -    order Hagelslag, 10 items left
+Fri Jun 22 20:19:21 2018 -    order Stroopwafels, 15 items left
+Fri Jun 22 20:19:21 2018 - Fill robot with:
+Fri Jun 22 20:19:21 2018 -    fill place x = 1, y = 3 with 10 Hagelslag
+Fri Jun 22 20:19:21 2018 -    fill place x = 1, y = 3 with 400 Chocopasta
+Fri Jun 22 20:19:21 2018 -    fill place x = 1, y = 2 with 40 Eieren
+Fri Jun 22 20:19:24 2018 - server - {"routes":[[0,0,0,0,0],[0,-90,0],[180,0,90,0,0,0,0],[0,180]],"type":"route"}
+Fri Jun 22 20:19:27 2018 - robot - {"type": "arrived_at_target", "value": "ready"}
+Fri Jun 22 20:19:30 2018 - robot - {"type": "arrived_at_target", "value": "ready"}
+Fri Jun 22 20:19:33 2018 - robot - {"type": "arrived_at_target", "value": "ready"}
+Fri Jun 22 20:19:36 2018 - robot - {"type": "arrived_at_target", "value": "ready"}
+Fri Jun 22 20:19:36 2018 - robot - {"type": "ready", "value": true}
+Fri Jun 22 20:19:36 2018 - Following items should be ordered:
+Fri Jun 22 20:19:36 2018 -    order Hagelslag, 10 items left
+Fri Jun 22 20:19:36 2018 -    order Stroopwafels, 15 items left
+Fri Jun 22 20:19:36 2018 - Fill robot with:
+Fri Jun 22 20:19:36 2018 -    fill place x = 1, y = 3 with 10 Hagelslag
+Fri Jun 22 20:19:36 2018 -    fill place x = 1, y = 3 with 400 Chocopasta
+Fri Jun 22 20:19:36 2018 -    fill place x = 1, y = 2 with 40 Eieren
+Fri Jun 22 20:24:00 2018 - server - {"type":"ready_for_communication","value":true}
+Fri Jun 22 20:24:00 2018 - robot - {"type": "ready_for_communication", "value": true}
+Fri Jun 22 20:24:00 2018 - robot - {"type": "ready", "value": true}
+Fri Jun 22 20:24:00 2018 - Following items should be ordered:
+Fri Jun 22 20:24:00 2018 -    order Hagelslag, 10 items left
+Fri Jun 22 20:24:00 2018 -    order Stroopwafels, 15 items left
+Fri Jun 22 20:24:00 2018 - Fill robot with:
+Fri Jun 22 20:24:00 2018 -    fill place x = 1, y = 3 with 10 Hagelslag
+Fri Jun 22 20:24:00 2018 -    fill place x = 1, y = 3 with 400 Chocopasta
+Fri Jun 22 20:24:00 2018 -    fill place x = 1, y = 2 with 40 Eieren
+Fri Jun 22 20:24:03 2018 - server - {"routes":[[0,0,0,0,0],[0,-90,0],[180,0,90,0,0,0,0],[0,180]],"type":"route"}
+Fri Jun 22 20:24:06 2018 - robot - {"type": "arrived_at_target", "value": "ready"}
+Fri Jun 22 20:24:09 2018 - robot - {"type": "arrived_at_target", "value": "ready"}
+Fri Jun 22 20:24:12 2018 - robot - {"type": "arrived_at_target", "value": "ready"}
+Fri Jun 22 20:26:18 2018 - server - {"type":"ready_for_communication","value":true}
+Fri Jun 22 20:26:18 2018 - robot - {"type": "ready_for_communication", "value": true}
+Fri Jun 22 20:26:18 2018 - robot - {"type": "ready", "value": true}
+Fri Jun 22 20:26:19 2018 - Following items should be ordered:
+Fri Jun 22 20:26:19 2018 -    order Hagelslag, 10 items left
+Fri Jun 22 20:26:19 2018 -    order Stroopwafels, 15 items left
+Fri Jun 22 20:26:19 2018 - Fill robot with:
+Fri Jun 22 20:26:19 2018 -    fill place x = 1, y = 3 with 10 Hagelslag
+Fri Jun 22 20:26:19 2018 -    fill place x = 1, y = 3 with 400 Chocopasta
+Fri Jun 22 20:26:19 2018 -    fill place x = 1, y = 2 with 40 Eieren
+Fri Jun 22 20:26:24 2018 - server - {"type":"route","routes":[[0,0,0,0,0],[0,-90,0],[180,0,90,0,0,0,0],[0,180]]}
+Fri Jun 22 20:26:27 2018 - robot - {"type": "arrived_at_target", "value": "ready"}
+Fri Jun 22 20:26:30 2018 - robot - {"type": "arrived_at_target", "value": "ready"}
+Fri Jun 22 20:26:33 2018 - robot - {"type": "arrived_at_target", "value": "ready"}
+Fri Jun 22 20:26:36 2018 - robot - {"type": "arrived_at_target", "value": "ready"}
+Fri Jun 22 20:26:36 2018 - robot - {"type": "ready", "value": true}
+Fri Jun 22 20:26:36 2018 - Following items should be ordered:
+Fri Jun 22 20:26:36 2018 -    order Hagelslag, 10 items left
+Fri Jun 22 20:26:36 2018 -    order Stroopwafels, 15 items left
+Fri Jun 22 20:26:36 2018 - Fill robot with:
+Fri Jun 22 20:26:36 2018 -    fill place x = 1, y = 3 with 10 Hagelslag
+Fri Jun 22 20:26:36 2018 -    fill place x = 1, y = 3 with 400 Chocopasta
+Fri Jun 22 20:26:36 2018 -    fill place x = 1, y = 2 with 40 Eieren
+Fri Jun 22 20:28:41 2018 - server - {"value":true,"type":"ready_for_communication"}
+Fri Jun 22 20:28:41 2018 - robot - {"type": "ready_for_communication", "value": true}
+Fri Jun 22 20:28:41 2018 - robot - {"type": "ready", "value": true}
+Fri Jun 22 20:28:42 2018 - Following items should be ordered:
+Fri Jun 22 20:28:42 2018 -    order Hagelslag, 10 items left
+Fri Jun 22 20:28:43 2018 -    order Stroopwafels, 15 items left
+Fri Jun 22 20:28:43 2018 - Fill robot with:
+Fri Jun 22 20:28:43 2018 -    fill place x = 1, y = 3 with 10 Hagelslag
+Fri Jun 22 20:28:43 2018 -    fill place x = 1, y = 3 with 400 Chocopasta
+Fri Jun 22 20:28:43 2018 -    fill place x = 1, y = 2 with 40 Eieren
+Fri Jun 22 20:28:45 2018 - server - {"routes":[[0,0,0,0,0],[0,-90,0],[180,0,90,0,0,0,0],[0,180]],"type":"route"}
+Fri Jun 22 20:28:48 2018 - robot - {"type": "arrived_at_target", "value": "ready"}
+Fri Jun 22 20:28:51 2018 - robot - {"type": "arrived_at_target", "value": "ready"}
+Fri Jun 22 20:28:54 2018 - robot - {"type": "arrived_at_target", "value": "ready"}
+Fri Jun 22 20:28:57 2018 - robot - {"type": "arrived_at_target", "value": "ready"}
+Fri Jun 22 20:28:57 2018 - robot - {"type": "ready", "value": true}
+Fri Jun 22 20:28:57 2018 - Following items should be ordered:
+Fri Jun 22 20:28:57 2018 -    order Hagelslag, 10 items left
+Fri Jun 22 20:28:57 2018 -    order Stroopwafels, 15 items left
+Fri Jun 22 20:28:57 2018 - Fill robot with:
+Fri Jun 22 20:28:57 2018 -    fill place x = 1, y = 3 with 10 Hagelslag
+Fri Jun 22 20:28:57 2018 -    fill place x = 1, y = 3 with 400 Chocopasta
+Fri Jun 22 20:28:57 2018 -    fill place x = 1, y = 2 with 40 Eieren
+Fri Jun 22 20:32:07 2018 - server - {"type":"ready_for_communication","value":true}
+Fri Jun 22 20:32:07 2018 - robot - {"type": "ready_for_communication", "value": true}
+Fri Jun 22 20:32:07 2018 - robot - {"type": "ready", "value": true}
+Fri Jun 22 20:32:09 2018 - Following items should be ordered:
+Fri Jun 22 20:32:09 2018 -    order Hagelslag, 10 items left
+Fri Jun 22 20:32:09 2018 -    order Stroopwafels, 15 items left
+Fri Jun 22 20:32:09 2018 - Fill robot with:
+Fri Jun 22 20:32:09 2018 -    fill place x = 1, y = 3 with 10 Hagelslag
+Fri Jun 22 20:32:09 2018 -    fill place x = 1, y = 3 with 400 Chocopasta
+Fri Jun 22 20:32:09 2018 -    fill place x = 1, y = 2 with 40 Eieren
+Fri Jun 22 20:32:12 2018 - server - {"type":"route","routes":[[0,0,0,0,0],[0,-90,0],[180,0,90,0,0,0,0],[0,180]]}
+Fri Jun 22 20:32:15 2018 - robot - {"type": "arrived_at_target", "value": "ready"}
+Fri Jun 22 20:32:18 2018 - robot - {"type": "arrived_at_target", "value": "ready"}
+Fri Jun 22 20:33:29 2018 - server - {"type":"ready_for_communication","value":true}
+Fri Jun 22 20:33:29 2018 - robot - {"type": "ready_for_communication", "value": true}
+Fri Jun 22 20:33:29 2018 - robot - {"type": "ready", "value": true}
+Fri Jun 22 20:33:32 2018 - Following items should be ordered:
+Fri Jun 22 20:33:32 2018 -    order Hagelslag, 10 items left
+Fri Jun 22 20:33:32 2018 -    order Stroopwafels, 15 items left
+Fri Jun 22 20:33:32 2018 - Fill robot with:
+Fri Jun 22 20:33:32 2018 -    fill place x = 1, y = 3 with 10 Hagelslag
+Fri Jun 22 20:33:32 2018 -    fill place x = 1, y = 3 with 400 Chocopasta
+Fri Jun 22 20:33:32 2018 -    fill place x = 1, y = 2 with 40 Eieren
+Fri Jun 22 20:34:58 2018 - server - {"value":true,"type":"ready_for_communication"}
+Fri Jun 22 20:34:58 2018 - robot - {"type": "ready_for_communication", "value": true}
+Fri Jun 22 20:34:58 2018 - robot - {"type": "ready", "value": true}
+Fri Jun 22 20:35:01 2018 - Following items should be ordered:
+Fri Jun 22 20:35:01 2018 -    order Hagelslag, 10 items left
+Fri Jun 22 20:35:01 2018 -    order Stroopwafels, 15 items left
+Fri Jun 22 20:35:01 2018 - Fill robot with:
+Fri Jun 22 20:35:01 2018 -    fill place x = 1, y = 3 with 10 Hagelslag
+Fri Jun 22 20:35:01 2018 -    fill place x = 1, y = 3 with 400 Chocopasta
+Fri Jun 22 20:35:01 2018 -    fill place x = 1, y = 2 with 40 Eieren
+Fri Jun 22 20:37:38 2018 - server - {"value":true,"type":"ready_for_communication"}
+Fri Jun 22 20:37:38 2018 - robot - {"type": "ready_for_communication", "value": true}
+Fri Jun 22 20:37:38 2018 - robot - {"type": "ready", "value": true}
+Fri Jun 22 20:37:38 2018 - Following items should be ordered:
+Fri Jun 22 20:37:38 2018 -    order Hagelslag, 10 items left
+Fri Jun 22 20:37:38 2018 -    order Stroopwafels, 15 items left
+Fri Jun 22 20:37:38 2018 - Fill robot with:
+Fri Jun 22 20:37:38 2018 -    fill place x = 1, y = 3 with 10 Hagelslag
+Fri Jun 22 20:37:38 2018 -    fill place x = 1, y = 3 with 400 Chocopasta
+Fri Jun 22 20:37:38 2018 -    fill place x = 1, y = 2 with 40 Eieren
+Fri Jun 22 20:37:41 2018 - server - {"routes":[[0,0,0,0,0],[0,-90,0],[180,0,90,0,0,0,0],[0,180]],"type":"route"}
+Fri Jun 22 20:37:44 2018 - robot - {"type": "arrived_at_target", "value": "ready"}
+Fri Jun 22 20:37:47 2018 - robot - {"type": "arrived_at_target", "value": "ready"}
+Fri Jun 22 20:37:50 2018 - robot - {"type": "arrived_at_target", "value": "ready"}
+Fri Jun 22 20:37:53 2018 - robot - {"type": "arrived_at_target", "value": "ready"}
+Fri Jun 22 20:37:53 2018 - robot - {"type": "ready", "value": true}
+Fri Jun 22 20:37:53 2018 - Following items should be ordered:
+Fri Jun 22 20:37:53 2018 -    order Hagelslag, 10 items left
+Fri Jun 22 20:37:53 2018 -    order Stroopwafels, 15 items left
+Fri Jun 22 20:37:53 2018 - Fill robot with:
+Fri Jun 22 20:37:53 2018 -    fill place x = 1, y = 3 with 400 Chocopasta
+Fri Jun 22 20:37:53 2018 -    fill place x = 1, y = 2 with 40 Eieren
+Fri Jun 22 20:39:18 2018 - server - {"type":"ready_for_communication","value":true}
+Fri Jun 22 20:39:18 2018 - robot - {"type": "ready_for_communication", "value": true}
+Fri Jun 22 20:39:18 2018 - robot - {"type": "ready", "value": true}
+Fri Jun 22 20:39:20 2018 - Following items should be ordered:
+Fri Jun 22 20:39:20 2018 -    order Hagelslag, 10 items left
+Fri Jun 22 20:39:20 2018 -    order Stroopwafels, 15 items left
+Fri Jun 22 20:39:20 2018 - Fill robot with:
+Fri Jun 22 20:39:20 2018 -    fill place x = 1, y = 3 with 400 Chocopasta
+Fri Jun 22 20:39:20 2018 -    fill place x = 1, y = 2 with 40 Eieren
+Fri Jun 22 20:39:23 2018 - server - {"type":"route","routes":[[0,0,0,0,0,0,-90,0],[180,0,90,0,0,0,0],[0,180]]}
+Fri Jun 22 20:39:26 2018 - robot - {"type": "arrived_at_target", "value": "ready"}
+Fri Jun 22 20:39:29 2018 - robot - {"type": "arrived_at_target", "value": "ready"}
+Fri Jun 22 20:39:32 2018 - robot - {"type": "arrived_at_target", "value": "ready"}
+Fri Jun 22 20:39:32 2018 - robot - {"type": "ready", "value": true}
+Fri Jun 22 20:40:53 2018 - server - {"value":true,"type":"ready_for_communication"}
+Fri Jun 22 20:40:53 2018 - robot - {"type": "ready_for_communication", "value": true}
+Fri Jun 22 20:40:53 2018 - robot - {"type": "ready", "value": true}
+Fri Jun 22 20:40:55 2018 - Following items should be ordered:
+Fri Jun 22 20:40:55 2018 -    order Hagelslag, 10 items left
+Fri Jun 22 20:40:55 2018 -    order Stroopwafels, 15 items left
